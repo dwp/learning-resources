@@ -4,8 +4,11 @@ Links to great learning resources for HTML, CSS &amp; JavaScript
 ##HTML
 
 [HTML Dog - HTML Tutorials](http://htmldog.com/guides/html/beginner/) - Beginner tutorials.
+
 [Code Academy HTML/CSS Tutorials](https://www.codecademy.com/en/tracks/htmlcss) - Beginner interactive tutorials.
+
 [MDN Introduction to HTML](https://developer.mozilla.org/en-US/Learn/HTML/Introduction_to_HTML)
+
 [Dive Into HTML5](http://diveintohtml5.info/) - HTML5 specific basics and reference
 
 ##CSS
@@ -16,4 +19,5 @@ Links to great learning resources for HTML, CSS &amp; JavaScript
 ##JavaScript
 
 [HTML Dog - Javascript Tutorials](http://htmldog.com/guides/Javascript/beginner/) - Beginner tutorials.
+
 [MDN Javascript Basics](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics)
