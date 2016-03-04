@@ -16,7 +16,7 @@ Links to great learning resources for HTML, CSS &amp; JavaScript
 
 ##JavaScript
 
-- [HTML Dog - Javascript Tutorials](http://htmldog.com/guides/Javascript/beginner/) - Beginner tutorials.
+- [HTML Dog - Javascript Tutorials](http://htmldog.com/guides/javascript/beginner/) - Beginner tutorials.
 - [MDN Javascript Basics](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics)
 
 #Testing
