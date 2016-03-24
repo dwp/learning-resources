@@ -23,3 +23,7 @@ Links to great learning resources for HTML, CSS &amp; JavaScript
 
 - [Thimble](https://thimble.mozilla.org/en-US/) - Thimble is an online code editor that makes it easy to create and publish your own web pages while learning HTML, CSS & JavaScript.
 - [CodePen](http://codepen.io/pen/) - Use this to practice your HTML/CSS/JavaScript
+
+#Screencasts / Learning Videos
+
+- [Absolute Beginner HTML & CSS](https://www.youtube.com/watch?v=47y8X54l7f8) - CSS Tricks explains building webpages for absolute beginners.
